@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45fdf486-f632-405f-bfd8-400c3d9e69e2" name="Default Changelist" comment="" />
+    <list default="true" id="45fdf486-f632-405f-bfd8-400c3d9e69e2" name="Default Changelist" comment="Submit weight file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/BoxF1_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/BoxPR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/BoxP_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/BoxR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/PoseF1_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/PosePR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/PoseP_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/PoseR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/args.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/confusion_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/confusion_matrix_normalized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/events.out.tfevents.1736756893.MSI.59292.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/labels_correlogram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/train_batch0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/train_batch1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/train_batch2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/train_batch33660.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/train_batch33661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/train_batch33662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/val_batch0_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/val_batch0_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/val_batch1_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/val_batch1_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/val_batch2_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pose/train/val_batch2_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/BoxF1_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/BoxPR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/BoxP_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/BoxR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/MaskF1_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/MaskPR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/MaskP_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/MaskR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/args.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/confusion_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/confusion_matrix_normalized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/events.out.tfevents.1736501049.MSI.44048.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/labels_correlogram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/train_batch0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/train_batch1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/train_batch2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/train_batch22770.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/train_batch22771.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/train_batch22772.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/val_batch0_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/val_batch0_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/val_batch1_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/val_batch1_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/val_batch2_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment/train/val_batch2_pred.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="shq" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a4f38c5e-73e3-4285-a998-c811bd1f8520" />
   </component>
   <component name="ProjectId" id="2u6ctEqreMxjcjDVY8BXhdfLT3s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,11 +127,25 @@
       <option name="presentableId" value="Default" />
       <updated>1741572677635</updated>
       <workItem from="1741572679933" duration="112000" />
-      <workItem from="1741572861769" duration="1114000" />
+      <workItem from="1741572861769" duration="1856000" />
+      <workItem from="1741574800544" duration="754000" />
+      <workItem from="1741575718556" duration="3545000" />
     </task>
+    <task id="LOCAL-00001" summary="Submit weight file">
+      <created>1741574040656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741574040656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Submit weight file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Submit weight file" />
   </component>
 </project>
