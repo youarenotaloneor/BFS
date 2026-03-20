@@ -2,10 +2,7 @@
 
 The code file is currently being organized ..
 
-
-# [Paper Title]
-
-Rail defect detection based on multi-scale feature enhancement and fine-grained perception fusion
+# Rail defect detection based on multi-scale feature enhancement and fine-grained perception fusion
 
 This repository provides the official implementation and experimental resources for our paper. It includes the model framework, dataset descriptions, environment configuration, and representative detection results.
 
